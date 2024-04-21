@@ -1,3 +1,11 @@
+> [!WARNING]
+>**Archivovaný repozitář**
+> 
+> Tento repozitář v organizaci gyarab je archivován ve stavu odevzdání maturitní práce.
+>
+> Dále je v projektu pokračováno v soukromém repozitáři.
+> 🕷️🕸️ https://github.com/Firu115/jako_pavouk
+
 <div align="center">
     <a href="https://jakopavouk.cz" target="_blank">
         <img src='https://jakopavouk.cz/OGnahledZaobleny.png' width='500'>
